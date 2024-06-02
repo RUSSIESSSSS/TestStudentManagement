@@ -1,0 +1,13 @@
+stu:
+  add:
+    data:
+      - [ '001','name1','female','18','添加成功' ]
+  modify:
+    data:
+      - [ '001' ,'name2','male','99',"修改成功" ]
+  delete:
+    data:
+      - [ '001' ,'删除成功' ]
+  all:
+    data:
+      - ['返回了当前所有学生信息']
